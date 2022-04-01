@@ -1,0 +1,33 @@
+.Caroline{
+    width:250px;
+    height:250px;
+    border:solid 5px blueviolet;
+    padding:30px 20px 30px 20px;
+    margin-bottom:-60%;
+    margin-top: 10%;
+
+}
+.Caroline .Nyambura{
+    width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    padding:30px 20px 30px 20px;
+    margin-top: -4%;
+    margin-bottom: 10%;
+    margin-left: -5%;
+    
+    
+
+
+    
+    
+}
+.Caroline .Nyambura .Mugo{
+    width: 150px;
+    height: 150px;
+    border: 5px solid yellowgreen;
+    padding:30px 20px 30px 20px;
+    text-align: center;
+    margin-top:-5%;
+    
+}
